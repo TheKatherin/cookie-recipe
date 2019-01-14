@@ -1,0 +1,3 @@
+[submodule "cookie-recipe"]
+	path = cookie-recipe
+	url = https://github.com/epicodus-lessons/cookie-recipe.git
